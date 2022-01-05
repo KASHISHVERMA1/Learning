@@ -1,0 +1,16 @@
+	(1)
+VARIABLES	price
+	
+mpg	-24.816
+	(191.597)
+length	-384.487
+	(171.945)
+weight	11.303
+	(3.080)
+Constant	46,718.736
+	(26,564.998)
+	
+Observations	5
+R-squared	0.954
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
